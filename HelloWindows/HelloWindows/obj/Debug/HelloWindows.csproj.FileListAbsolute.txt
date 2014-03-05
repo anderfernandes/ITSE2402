@@ -1,0 +1,12 @@
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\Bin\Debug\ApplicationIcon.png
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\Bin\Debug\Background.png
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\Bin\Debug\HelloWindows.dll
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\Bin\Debug\HelloWindows.pdb
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\Bin\Debug\AppManifest.xaml
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\Bin\Debug\HelloWindows.xap
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\obj\Debug\App.g.i.cs
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\obj\Debug\MainPage.g.i.cs
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\obj\Debug\HelloWindows.g.resources
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\obj\Debug\HelloWindows.dll
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\obj\Debug\HelloWindows.pdb
+c:\users\advuser\documents\visual studio 2010\Projects\HelloWindows\HelloWindows\obj\Debug\XapCacheFile.xml
