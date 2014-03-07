@@ -1,0 +1,12 @@
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\Bin\Debug\ApplicationIcon.png
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\Bin\Debug\Background.png
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\Bin\Debug\ButtonChaser.dll
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\Bin\Debug\ButtonChaser.pdb
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\Bin\Debug\AppManifest.xaml
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\Bin\Debug\ButtonChaser.xap
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\obj\Debug\App.g.i.cs
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\obj\Debug\MainPage.g.i.cs
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\obj\Debug\ButtonChaser.g.resources
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\obj\Debug\ButtonChaser.dll
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\obj\Debug\ButtonChaser.pdb
+c:\users\advuser\documents\visual studio 2010\Projects\ButtonChaser\ButtonChaser\obj\Debug\XapCacheFile.xml
