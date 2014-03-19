@@ -1,0 +1,12 @@
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\Bin\Release\ApplicationIcon.png
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\Bin\Release\Background.png
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\Bin\Release\LocationExample.dll
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\Bin\Release\LocationExample.pdb
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\Bin\Release\AppManifest.xaml
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\Bin\Release\LocationExample.xap
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\obj\Release\App.g.i.cs
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\obj\Release\MainPage.g.i.cs
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\obj\Release\LocationExample.g.resources
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\obj\Release\LocationExample.dll
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\obj\Release\LocationExample.pdb
+c:\users\advuser\documents\visual studio 2010\Projects\LocationExample\LocationExample\obj\Release\XapCacheFile.xml
